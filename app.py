@@ -120,10 +120,11 @@ st.markdown(
         margin: 0.1rem 0;
         font-size: 0.95rem;
    .rose-header a {
-    color: #1f6feb;  /* blue instead of red */
+    color: #8ecbff;  /* light blue so it shows on dark header */
     text-decoration: none;
     font-weight: 600;
 }
+
 .rose-header a:hover {
     text-decoration: underline;
 }
