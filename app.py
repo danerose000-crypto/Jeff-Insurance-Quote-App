@@ -104,12 +104,12 @@ st.markdown(
         color: #000000 !important;
     }
     .rose-header {
-        background: linear-gradient(90deg, #111111, #2b2b2b);
-        padding: 1.25rem 1.75rem;
-        border-radius: 0.75rem;
-        margin-bottom: 1.5rem;
-        border: 1px solid #333333;
-    }
+    background: linear-gradient(90deg, #2b2b2b, #505050);  /* softer dark gray */
+    padding: 1.25rem 1.75rem;
+    border-radius: 0.75rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #505050;
+}
     .rose-header h1 {
         color: #ffffff;
         margin: 0 0 0.3rem 0;
