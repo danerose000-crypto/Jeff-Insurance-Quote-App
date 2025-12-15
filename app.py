@@ -119,15 +119,14 @@ st.markdown(
         color: #cccccc;
         margin: 0.1rem 0;
         font-size: 0.95rem;
-    }
-    .rose-header a {
-        color: #ff4b4b;
-        text-decoration: none;
-        font-weight: 600;
-    }
-    .rose-header a:hover {
-        text-decoration: underline;
-    }
+   .rose-header a {
+    color: #1f6feb;  /* blue instead of red */
+    text-decoration: none;
+    font-weight: 600;
+}
+.rose-header a:hover {
+    text-decoration: underline;
+}
     .section-card {
         background-color: transparent;
         padding: 0;
