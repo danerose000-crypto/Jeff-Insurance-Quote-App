@@ -112,16 +112,17 @@ st.markdown(
 }
 
     .rose-header h1 {
-        color: #ffffff;
-        margin: 0 0 0.3rem 0;
-        font-size: 1.75rem;
-    }
-    .rose-header p {
-        color: #cccccc;
-        margin: 0.1rem 0;
-        font-size: 0.95rem;
-   .rose-header a {
-    color: #8ecbff;  /* light blue so it shows on dark header */
+    color: #000000;  /* title black */
+    margin: 0 0 0.3rem 0;
+    font-size: 1.75rem;
+}
+.rose-header p {
+    color: #000000;  /* questions + labels black */
+    margin: 0.1rem 0;
+    font-size: 0.95rem;
+}
+.rose-header a {
+    color: #1d4ed8;  /* keep email + phone blue */
     text-decoration: none;
     font-weight: 600;
 }
